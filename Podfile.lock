@@ -1,0 +1,16 @@
+PODS:
+  - MagazineLayout (1.5.5)
+
+DEPENDENCIES:
+  - MagazineLayout
+
+SPEC REPOS:
+  trunk:
+    - MagazineLayout
+
+SPEC CHECKSUMS:
+  MagazineLayout: 343e50e92513a892e92fb07ace34826552704e48
+
+PODFILE CHECKSUM: f1ccc4200cb01bfbf6eafadc588c08d53262a940
+
+COCOAPODS: 1.9.1

@@ -49,6 +49,9 @@ class RowViewController: UIViewController {
                 cells: {
                     TagCell(id: 1, props: Tag.State(text: self.state.inputText ?? "no text"))
                     Row(id: "testing", views: [
+                        Tag(
+                            state: Tag.State(text: self.state.inputText ?? "no text")
+                        ),
                         Input(
                             state: Input.State(
                                 text: self.state.inputText,
